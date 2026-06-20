@@ -11,7 +11,10 @@ Static HTML/CSS, served via GitHub Pages.
 
 ## Live URL
 
-After GitHub Pages is enabled (Settings → Pages → Deploy from branch → `main` / root):
+Served via GitHub Pages (Deploy from branch → `main` / root), through the
+custom domain `markhunsinger.com`:
 
-- Site: https://markjhunsinger.github.io/havensight-site/
-- Privacy: https://markjhunsinger.github.io/havensight-site/privacy.html
+- Site: https://markhunsinger.com/havensight-site/
+- Privacy: https://markhunsinger.com/havensight-site/privacy.html
+
+(Also reachable at https://markjhunsinger.github.io/havensight-site/)
