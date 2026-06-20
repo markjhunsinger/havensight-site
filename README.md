@@ -11,10 +11,12 @@ Static HTML/CSS, served via GitHub Pages.
 
 ## Live URL
 
-Served via GitHub Pages (Deploy from branch → `main` / root), through the
-custom domain `markhunsinger.com`:
+Served via GitHub Pages (Deploy from branch → `main` / root), on the custom
+apex domain `havensightgame.com` (Cloudflare DNS, apex CNAME-flattening, HTTPS
+enforced):
 
-- Site: https://markhunsinger.com/havensight-site/
-- Privacy: https://markhunsinger.com/havensight-site/privacy.html
+- Site: https://havensightgame.com/
+- Privacy: https://havensightgame.com/privacy.html
 
-(Also reachable at https://markjhunsinger.github.io/havensight-site/)
+(Also reachable at https://markjhunsinger.github.io/havensight-site/, which
+canonicalizes to the custom domain.)
